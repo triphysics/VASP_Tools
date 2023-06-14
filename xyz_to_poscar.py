@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# This is adopted from https://github.com/lqcata/xyz2POSCAR
 import sys
 
 script, xyz_file, out_file = sys.argv 
